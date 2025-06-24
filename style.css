@@ -1,0 +1,23 @@
+body{
+padding: 10px;
+}
+/* Table container */
+#output {
+  margin-top: 20px;
+  border: 1px solid black;
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.row {
+  background-color: #f9f9f9;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+/* Hover effect */
+.row:hover {
+  background-color: #e0f7fa;
+}
