@@ -12,12 +12,9 @@ padding: 10px;
 }
 
 .row {
-  background-color: #f9f9f9;
+  background-color: #e0f7fa;
   font-size: 16px;
   margin-bottom: 20px;
 }
 
-/* Hover effect */
-.row:hover {
-  background-color: #e0f7fa;
-}
+
